@@ -1,6 +1,6 @@
 {
   "name": "@vestauth/vestauth-windows-x86_64",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "vestauth-windows-x86_64 executable",
   "repository": {
     "type": "git",
